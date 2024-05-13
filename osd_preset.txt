@@ -1,0 +1,19 @@
+#$ TITLE: btastic OSD Preset
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: OSD, btastic
+#$ AUTHOR: btastic
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: ### btastic OSD Preset
+
+set osd_link_quality_pos = 2647
+set osd_mah_drawn_pos = 2687
+set osd_warnings_pos = 14808
+set osd_avg_cell_voltage_pos = 2654
+set osd_disarmed_pos = 2426
+set osd_flip_arrow_pos = 2398
+set osd_canvas_width = 60
+set osd_canvas_height = 22
